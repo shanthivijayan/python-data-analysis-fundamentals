@@ -1,5 +1,6 @@
-**Python Data Analysis Fundamentals
-📌 Overview**
+**Python Data Analysis Fundamentals**
+
+**📌 Overview**
 
 This repository contains a collection of Python exercises and projects designed to build a strong foundation in data analysis using Python. It includes working with data structures, libraries, file handling, APIs, and basic data visualization, and is part of my learning through the IBM Data Analyst Professional Certificate and Coursera courses.
 
