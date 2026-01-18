@@ -60,6 +60,4 @@ Shanthi Vijayan
 Data Analyst | Software Engineer
 Toronto, Canada**
 
- | GitHub
-
 ✅ Optional Enhancements
